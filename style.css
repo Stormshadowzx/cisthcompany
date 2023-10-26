@@ -1,5 +1,6 @@
 html {
-   font-size: calc(60% + 0.8vmin)
+   font-size: calc(60% + 0.8vmin);
+   object-fit:cover;
   }
 
 .container {
